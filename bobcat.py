@@ -4,6 +4,7 @@
 # Source code modified from "Black Hat Python" by Justin Zeitz, published by No Starch Press
 # TODO Add command history support (Up arrow to get previous commands)
 # TODO Type command and have it appear next to prompt (E.g <bobcat:#> command)
+# TODO Get rid of these global variables
 
 
 import sys
