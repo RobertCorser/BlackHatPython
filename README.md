@@ -1,2 +1,2 @@
 # BlackHatPython
-Source code from the book Black Hat Python
+Tools created using the book Black Hat Python. 
